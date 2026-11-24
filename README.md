@@ -1,10 +1,10 @@
 # Simuladores de cálculo y topografía
 
-Aplicaciones interactivas para explorar problemas de optimización con derivadas y cálculos básicos de nivelación topográfica.
+Aplicaciones interactivas para explorar optimización con derivadas y cálculos de nivelación topográfica, incluida la pendiente aproximada del terreno.
 
 ## Herramientas
 
-- **Nivelación topográfica:** registra vistas atrás, intermedias y adelante; calcula alturas de instrumento y cotas, y grafica el perfil del terreno.
+- **Nivelación topográfica:** registra vistas atrás, intermedias y adelante; calcula alturas de instrumento y cotas, grafica el perfil y estima la pendiente entre puntos.
 - **Cercado junto al río:** busca las dimensiones que maximizan el área con una cantidad fija de cerca.
 - **Cilindro eficiente:** calcula las proporciones que minimizan el material de una lata cerrada de volumen fijo.
 

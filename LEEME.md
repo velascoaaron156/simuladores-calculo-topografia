@@ -10,8 +10,8 @@ Este proyecto contiene tres simuladores interactivos hechos con HTML, CSS y Java
 
 ## Simuladores
 
-- **Nivelación topográfica:** registra vistas atrás, intermedias y adelante para obtener cotas y consultar el perfil longitudinal.
+- **Nivelación topográfica:** registra vistas atrás, intermedias y adelante para obtener cotas y consultar el perfil longitudinal. También calcula la pendiente aproximada entre puntos como Δcota / Δdistancia × 100, una aproximación de la derivada del perfil.
 - **Cercado junto al río:** maximiza el área con una longitud fija de cerca para tres lados.
 - **Cilindro eficiente:** minimiza el área de material de una lata cerrada con volumen fijo.
 
-Cada simulador incluye la función objetivo, su derivada, un gráfico que se actualiza en vivo, el punto óptimo y un esquema geométrico.
+Los simuladores de cercado y cilindro muestran sus funciones objetivo, derivadas, gráficas y óptimos. La herramienta topográfica muestra cotas, pendiente porcentual aproximada y perfil del terreno.
